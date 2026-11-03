@@ -1,0 +1,123 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #232028;
+    color: white;
+}
+
+.headdiv {
+    width: maxpx;
+    height: 64px;
+    display: flex;
+    gap: 50px;
+    background-color: #232028;
+}
+
+.divdiv {
+    display: flex;
+    gap: 50px;
+}
+
+.select {
+    width: 100px;
+    height: 20px;
+    margin-top: 25px;
+    outline: none;
+}
+
+
+.headh2 {
+    margin-top: 20px;
+    margin-left: 20px;
+    color: white;
+}
+
+.headh22 {
+    margin-left: 500px;
+    margin-top: 20px;
+    color: white;
+}
+
+.div22 {
+    width: 100px;
+    height: 32px;
+    margin-left: 700px;
+    padding-left: 30px;
+    padding-top: 5px;
+    padding-right: 5px;
+    background-color: #BFAFF2;
+    margin-top: -27px;
+    border-radius: 20px;
+}
+
+.maind {
+    display: flex;
+    gap: 100px;
+}
+
+.maindiv {
+    width: 325px;
+    height: 532px;
+    left: 10px;
+    position: absolute;
+    z-index: 1;
+}
+
+
+.div111 {
+    width: 248px;
+    height: 320px;
+    position: relative;
+    z-index: 3;
+}
+
+.maindiv1 {
+    width: 325px;
+    height: 532px;
+    left: 350px;
+    position: absolute;
+    z-index: 1;
+}
+
+.maindiv2 {
+    width: 325px;
+    height: 532px;
+    left: 700px;
+    position: absolute;
+    z-index: 1;
+}
+
+.maindiv3 {
+    width: 325px;
+    height: 532px;
+    left: 1100px;
+    position: absolute;
+    z-index: 1;
+}
+
+.footer {
+    display: flex;
+    margin-top: 550px;
+    width: maxpx;
+    height: 64px;
+}
+
+.h22 {
+    margin-left: 10px;
+}
+
+.hh {
+    margin-left: 850px;
+}
+
+.h4 {
+    margin-left: 30px;
+}
+
+.h44 {
+    margin-left: 30px;
+}
